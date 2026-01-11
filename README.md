@@ -20,5 +20,5 @@ Data Used :
 * Description: Measures the share of the population living below the World Bank’s societal poverty line for Bangladesh
 * Data characteristics: Non-annual observations, reported for selected survey years
 * Source: World Bank DataBank
-* Path (raw): `data/raw/bangladesh_poverty_worldbank_data.csv`
-* Path (processed):** **`data/processed/bangladesh_poverty_clean.csv`
+* Path (raw): `data/raw/ad695f8c-9b6d-4f65-b85c-20be7331858c_Data.csv`
+* Path (processed):`data/processed/bangladesh_poverty_clean.csv`
