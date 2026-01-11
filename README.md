@@ -21,4 +21,4 @@ Data Used :
 * Data characteristics: Non-annual observations, reported for selected survey years
 * Source: World Bank DataBank
 * Path (raw): `data/raw/bangladesh_poverty_worldbank_data.csv`
-* Path (processed): `data/processed/bangladesh_poverty_clean.csv`
+* Path (processed):** **`data/processed/bangladesh_poverty_clean.csv`
